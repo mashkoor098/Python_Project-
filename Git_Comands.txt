@@ -1,0 +1,24 @@
+1.git status
+--> check the current status of files.
+2. touch fileName_with_extention
+--> it create new file
+
+3.git add filneName.extention
+--> it add the file in git
+
+4.git add -A
+-->it ad all file 
+
+5.git commit -m "Added more htmls"
+-->it commit your files.
+6.git checkout fileName.extention
+-->it recover your file from previous commit.
+7. git checkout -f 
+-->it recover all files .
+
+. *  how to create new ssh key...
+8.ssh-keygen
+--> then click Enter untill process is complete,then goto .ssh file location and copy it then,
+-> goto GitHub.com 
+->goto seting ,then click on ssh & gpg keys,
+->then set new name, & Past that test in keys box
