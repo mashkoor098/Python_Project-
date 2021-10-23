@@ -6,7 +6,7 @@
 3.git add filneName.extention
 --> it add the file in git
 
-4.git add -A
+4.git add -A / git add .
 -->it ad all file 
 
 5.git commit -m "Added more htmls"
